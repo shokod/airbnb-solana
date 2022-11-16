@@ -4,7 +4,7 @@
 node_modules
 .pnp
 .pnp.js
-.Identifier
+
 
 # testing
 /coverage
@@ -15,7 +15,7 @@ out/
 
 # production
 /build
-.Identifier
+
 
 # misc
 .DS_Store
